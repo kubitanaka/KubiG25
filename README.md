@@ -2,7 +2,7 @@
 
 ## I'm a plugin developer for minecraft servers and apprentice in html and css of Ecuadorian origin!!
 
-- Contact me on discord: KubiG25#5871 
+- 📫 Contact me on discord: KubiG25#5871 
 <br />
 
 ### Languages and Tools:
