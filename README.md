@@ -1,6 +1,7 @@
-### Hi there, I'm Anthony [KubiG25][spigot]
+### Hi there, I'm Anthony
 
 ## I'm a plugin developer for minecraft servers and apprentice in html and css of Ecuadorian origin!!
+
 
 - Contact me on discord: KubiG25#5871 
 
@@ -16,7 +17,5 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
----
 
 ![stats](https://github-readme-stats.vercel.app/api?username=KubiG25&count_private=true)
-[spigot]: https://www.spigotmc.org/members/kubig25.457466/
