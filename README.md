@@ -18,4 +18,4 @@
 
 <br />
 
-![stats](https://github-readme-stats.vercel.app/api?username=KubiG25&count_private=true)
+[stats](https://github-readme-stats.vercel.app/api?username=KubiG25&count_private=true)
