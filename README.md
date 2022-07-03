@@ -11,7 +11,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/logomark-orange@2x.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-<img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" />
+<img align="left" alt="IntelliJ" width="26px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <br />
 <br />
